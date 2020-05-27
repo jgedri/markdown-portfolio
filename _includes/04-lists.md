@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+* Fantasy and sci-fi
+* Cats!
+* Video games
